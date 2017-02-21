@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="18" passed="18">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="167" started-at="2017-01-28T21:47:08Z" finished-at="2017-01-28T21:47:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="167" started-at="2017-01-28T21:47:08Z" finished-at="2017-01-28T21:47:08Z">
+      <class name="com.sqa.gy.helpers.QAMathTestNGAddTest">
+        <test-method status="PASS" signature="testAddInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testAddInst" duration-ms="14" started-at="2017-01-28T13:47:08Z" data-provider="addData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddInst -->
+        <test-method status="PASS" signature="testAddInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testAddInst" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="addData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddInst -->
+        <test-method status="PASS" signature="testAddInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testAddInst" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="addData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-59]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[72]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddInst -->
+        <test-method status="PASS" signature="testAddSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testAddSimple" duration-ms="4" started-at="2017-01-28T13:47:08Z" data-provider="addData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddSimple -->
+        <test-method status="PASS" signature="testAddSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testAddSimple" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="addData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddSimple -->
+        <test-method status="PASS" signature="testAddSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testAddSimple" duration-ms="2" started-at="2017-01-28T13:47:08Z" data-provider="addData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-59]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[72]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddSimple -->
+        <test-method status="PASS" signature="testExpInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testExpInst" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="expData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExpInst -->
+        <test-method status="PASS" signature="testExpInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testExpInst" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="expData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExpInst -->
+        <test-method status="PASS" signature="testExpInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testExpInst" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="expData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-64]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExpInst -->
+        <test-method status="PASS" signature="testExpSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testExpSimple" duration-ms="2" started-at="2017-01-28T13:47:08Z" data-provider="expData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[49]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExpSimple -->
+        <test-method status="PASS" signature="testExpSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testExpSimple" duration-ms="2" started-at="2017-01-28T13:47:08Z" data-provider="expData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExpSimple -->
+        <test-method status="PASS" signature="testExpSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testExpSimple" duration-ms="2" started-at="2017-01-28T13:47:08Z" data-provider="expData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-64]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExpSimple -->
+        <test-method status="PASS" signature="testSubInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testSubInst" duration-ms="4" started-at="2017-01-28T13:47:08Z" data-provider="subData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubInst -->
+        <test-method status="PASS" signature="testSubInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testSubInst" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="subData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubInst -->
+        <test-method status="PASS" signature="testSubInst(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testSubInst" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="subData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[59]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[72]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubInst -->
+        <test-method status="PASS" signature="testSubSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testSubSimple" duration-ms="5" started-at="2017-01-28T13:47:08Z" data-provider="subData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubSimple -->
+        <test-method status="PASS" signature="testSubSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testSubSimple" duration-ms="2" started-at="2017-01-28T13:47:08Z" data-provider="subData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubSimple -->
+        <test-method status="PASS" signature="testSubSimple(int, int, int)[pri:0, instance:com.sqa.gy.helpers.QAMathTestNGAddTest@40b4579a]" name="testSubSimple" duration-ms="3" started-at="2017-01-28T13:47:08Z" data-provider="subData" finished-at="2017-01-28T13:47:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[59]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[72]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[-13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubSimple -->
+      </class> <!-- com.sqa.gy.helpers.QAMathTestNGAddTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

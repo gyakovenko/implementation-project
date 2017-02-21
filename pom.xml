@@ -5,6 +5,12 @@
  <artifactId>implementation-project</artifactId>
  <version>1.0-SNAPSHOT</version>
  <dependencies>
+ 
+ <dependency>
+ <groupId>org.testng</groupId>
+ <artifactId>testng</artifactId>
+ <version>6.9.10</version>
+ </dependency>
   <dependency>
    <groupId>junit</groupId>
    <artifactId>junit</artifactId>
